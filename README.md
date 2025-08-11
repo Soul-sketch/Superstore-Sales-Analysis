@@ -25,31 +25,31 @@ The goal was to explore sales performance, profitability, and regional trends th
 
 ### 1. Monthly Sales Trend
 Identifies seasonality and monthly sales fluctuations.  
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+![Monthly Sales Trend](images/Monthly_Sales_Trend(2015-2018).png)
 
 ---
 
 ### 2. Sales by Category and Sub-Category
 Shows which product lines drive the most revenue.  
-![Sales by Category](images/sales_by_category.png)
+![Sales by Category](images/Sales_by_Sub_Category_and_Category.png)
 
 ---
 
 ### 3. Top 10 Products by Sales
 Highlights best-selling products for better inventory decisions.  
-![Top Products](images/top_products.png)
+![Top Products](images/Top_10_products_by_Sales.png)
 
 ---
 
 ### 4. Sales vs Profit by Segment
 Compares revenue and profit distribution across customer segments.  
-![Sales vs Profit by Segment](images/sales_vs_profit_segment.png)
+![Sales vs Profit by Segment](images/Sales_vs_Profit_Segment.png)
 
 ---
 
 ### 5. Sales by Region (Map)
 Interactive geographical distribution of sales.  
-![Sales by Region](images/sales_by_region_map.png)
+![Sales by Region](images/Sales_by_Region_Map.png)
 
 ---
 
