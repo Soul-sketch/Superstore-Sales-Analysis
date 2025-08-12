@@ -37,13 +37,13 @@ Shows which product lines drive the most revenue.
 
 ### 3. Top 10 Products by Sales
 Highlights best-selling products for better inventory decisions.  
-![Top Products]()
+![Top Products](https://github.com/Soul-sketch/Superstore-Sales-Analysis/blob/main/Images/Top%2010%20Products%20by%20Sales.png)
 
 ---
 
 ### 4. Sales vs Profit by Segment
 Compares revenue and profit distribution across customer segments.  
-![Sales vs Profit by Segment](Images/Sales_vs_Profit_Segment.PNG)
+![Sales vs Profit by Segment]()
 
 ---
 
