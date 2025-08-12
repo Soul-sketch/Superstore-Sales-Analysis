@@ -49,7 +49,7 @@ Compares revenue and profit distribution across customer segments.
 
 ### 5. Sales by Region (Map)
 Interactive geographical distribution of sales.  
-![Sales by Region]()
+![Sales by Region](https://github.com/Soul-sketch/Superstore-Sales-Analysis/blob/main/Images/Sales%20by%20region_Map.png)
 
 ---
 
