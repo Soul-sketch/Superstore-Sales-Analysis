@@ -31,13 +31,13 @@ Identifies seasonality and monthly sales fluctuations.
 
 ### 2. Sales by Category and Sub-Category
 Shows which product lines drive the most revenue.  
-![Sales by Category](Images/Sales_by_Sub_Category_and_Category.PNG)
+![Sales by Category](https://github.com/Soul-sketch/Superstore-Sales-Analysis/blob/main/Images/Sales%20by%20Sub-Category%20and%20Category.png)
 
 ---
 
 ### 3. Top 10 Products by Sales
 Highlights best-selling products for better inventory decisions.  
-![Top Products](Images/Top_10_Products_by_Sales.PNG)
+![Top Products]()
 
 ---
 
