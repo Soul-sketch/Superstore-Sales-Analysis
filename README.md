@@ -55,11 +55,18 @@ Interactive geographical distribution of sales.
 
 ## 📜 Code Explanation
 The notebook is divided into:
-1. **Data Loading & Cleaning** – Handling missing values, parsing dates, and ensuring correct data types.
-2. **Exploratory Data Analysis (EDA)** – Summary statistics, trends, and distribution checks.
-3. **Visualization** – Static and interactive charts for insights.
-4. **Insights & Recommendations** – Key business takeaways.
-
+1. **Data Loading & Cleaning**
+   * Removed duplicates and handled missing values.
+   * Parsed Order Date and Ship Date into datetime format.
+   * Verified data types for accurate processing.
+2. **Exploratory Data Analysis (EDA)**
+   * Generated summary statistics.
+   * Checked trends, seasonal patterns, and data distributions.
+3. **Visualization**
+   * Created static visualizations with Matplotlib & Seaborn.
+   * Built an interactive US sales map with Plotly.
+4. **Insights & Recommendations**
+   * Extracted actionable business insights from the analysis.
 ---
 
 ## 💡 Insights Derived
@@ -71,6 +78,16 @@ The notebook is divided into:
 ---
 
 ## 📌 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Soul-sketch/superstore-sales-analysis.git
+# Clone the repository
+git clone https://github.com/Soul-sketch/Superstore-Sales-Analysis.git
+
+# Navigate into the project folder
+cd Superstore-Sales-Analysis
+
+# Open and run the Python script
+python Superstore_Analysis.py
+
+---
+
+📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.
