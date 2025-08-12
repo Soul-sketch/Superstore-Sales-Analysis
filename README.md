@@ -25,7 +25,7 @@ The goal was to explore sales performance, profitability, and regional trends th
 
 ### 1. Monthly Sales Trend
 Identifies seasonality and monthly sales fluctuations.  
-![Monthly Sales Trend](Images/Monthly_Sales_Trend(2015-2018).PNG)
+![Monthly Sales Trend](https://github.com/Soul-sketch/Superstore-Sales-Analysis/blob/main/Images/Monthly%20Sales%20Trend(2015-2018).png)
 
 ---
 
