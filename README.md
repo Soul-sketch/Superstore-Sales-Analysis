@@ -25,7 +25,7 @@ The goal was to explore sales performance, profitability, and regional trends th
 
 ### 1. Monthly Sales Trend
 Identifies seasonality and monthly sales fluctuations.  
-![Monthly Sales Trend](Images/Monthly Sales trend(2015-2018).png)
+![Monthly Sales Trend](Images/Monthly_Sales_Trend(2015-2018).png)
 
 ---
 
@@ -37,7 +37,7 @@ Shows which product lines drive the most revenue.
 
 ### 3. Top 10 Products by Sales
 Highlights best-selling products for better inventory decisions.  
-![Top Products](Images/Top_10_products_by_Sales.png)
+![Top Products](Images/Top_10_Products_by_Sales.png)
 
 ---
 
