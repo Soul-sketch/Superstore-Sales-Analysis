@@ -43,13 +43,13 @@ Highlights best-selling products for better inventory decisions.
 
 ### 4. Sales vs Profit by Segment
 Compares revenue and profit distribution across customer segments.  
-![Sales vs Profit by Segment]()
+![Sales vs Profit by Segment](https://github.com/Soul-sketch/Superstore-Sales-Analysis/blob/main/Images/Sales%20vs%20Profit%20by%20Segment.png)
 
 ---
 
 ### 5. Sales by Region (Map)
 Interactive geographical distribution of sales.  
-![Sales by Region](Images/Sales_by_Region_Map.PNG)
+![Sales by Region]()
 
 ---
 
